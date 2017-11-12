@@ -3,4 +3,4 @@
 
 ![image](截图.png)
 
-[Demo下载](demo.apk)
+[Demo下载](https://raw.githubusercontent.com/SnailRuns/MaterialHeaderIssue/master/demo.apk)
